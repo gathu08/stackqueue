@@ -17,7 +17,7 @@ queque.append(3)
 print (queque)
 
 #removing items from the queue
-#This rempoves items at the end
+#This removes items at the end
 y = queque.pop()
 #This removes items at the start 
 z = queque.popleft()
